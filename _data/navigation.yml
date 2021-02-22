@@ -7,7 +7,7 @@ main:
   - title: "thoughts"
     url: /thoughts/
   - title: "by categories"
-    url: /category-archive/
+    url: /categories/
 #   - title: "Pages"
 #     url: /page-archive/
 #   - title: "Collections"
