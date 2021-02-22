@@ -1,6 +1,6 @@
 ---
 title: "thoughts"
-permalink: /categories/thoughts/
+permalink: /thoughts/
 layout: category
 author_profile: true
 taxonomy: thoughts
