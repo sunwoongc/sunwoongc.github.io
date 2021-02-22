@@ -6,8 +6,8 @@ main:
 #     url: /year-archive/
   - title: "thoughts"
     url: /thoughts/
-#   - title: "Tags"
-#     url: /tags/
+  - title: "by categories"
+    url: /category-archive/
 #   - title: "Pages"
 #     url: /page-archive/
 #   - title: "Collections"
