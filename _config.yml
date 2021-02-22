@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Sunwoong Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **writing** person."
+  bio              : "I am a **writing** person."
   location         : "Seoul"
   email            :
   links:
