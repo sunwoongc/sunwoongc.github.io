@@ -20,7 +20,7 @@ title                    : "Hello, I write things."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sunwoong Choi"
-description              : "I write things."
+description              : "Hello, I write things."
 url                      : "https://sunwoongc.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
