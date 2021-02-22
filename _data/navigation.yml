@@ -4,8 +4,8 @@ main:
     url: /about/
 #   - title: "Posts"
 #     url: /year-archive/
-#   - title: "Thoughts"
-#     url: /categories/thoughts
+  - title: "thoughts"
+    url: /thoughts/
 #   - title: "Tags"
 #     url: /tags/
 #   - title: "Pages"
