@@ -10,7 +10,7 @@ main:
     url: /categories/
   - title: "by tags"
     url: /tags/
-#   - title: "Collections"
-#     url: /collection-archive/
+  - title: "TIL"
+    url: /todayIlearned/
 #   - title: "External Link"
 #     url: https://google.com
