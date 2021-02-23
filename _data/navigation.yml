@@ -8,8 +8,8 @@ main:
     url: /thoughts/
   - title: "by categories"
     url: /categories/
-#   - title: "Pages"
-#     url: /page-archive/
+  - title: "by tags"
+    url: /tags/
 #   - title: "Collections"
 #     url: /collection-archive/
 #   - title: "External Link"
